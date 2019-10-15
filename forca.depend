@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571100888 source:d:\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+
